@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erhval
 - 👀 I’m interested in new tech, motorcycles and animals 
-- 🌱 I’m currently learning React
+- 🌱 I want to learn JAVA 
 - 💞️ I'm looking to collaborate on a project that will allow me to learn and improve
 - 📫 How to reach me https://www.linkedin.com/in/valentin-erhard/
 - 😄 Pronouns: he/him 
